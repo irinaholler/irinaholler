@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irinaholler
-- 👀 I’m interested in Front-end web development, Creativity, Mucic, Coffee
+- 👀 I’m interested in Front-end web development, Creativity, Music, Coffee
 - 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
 - 💞️ I’m looking to collaborate on Web / JS projects.
 - 📫 How to reach me: my email address is irina@mygrin.de
