@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irinaholler
 - 👀 I’m interested in Front-end web development, Creativity, Music, Coffee
 - 🌱 I’m currently learning Web-, Software Development in DCI - Digital Career Institute.
-- 💞️ I’m looking to collaborate on Web / JS projects.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me: my email address is irina@mygrin.de
 
 <!---
