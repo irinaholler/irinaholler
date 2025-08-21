@@ -33,14 +33,10 @@
 
 ---
 
-### 📌 Check out my Python projects
-👉 [Our-Playful-Lab](https://github.com/irinaholler/Our-Playful-Lab)  
-👉 (add more here as you go 🚀)
-
 ### 📌 Check out my projects
 
 👉 [Our-Playful-Lab](https://github.com/irinaholler/Our-Playful-Lab)  
-A playful Flask web app with mini-generators (excuses, pet names, and more).  
+A playful Python/Flask web app with mini-generators (excuses, pet names, ai-image-generator and more).  
 
 👉 [My Portfolio](https://myrina.de/portfolio/)  
 Showcasing my web development & design projects (WordPress, MERN apps, creative experiments).
