@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Ira (irinaholler)
+# 🤘 Hey, I’m Myrina (irinaholler)
+
+*Coding loud, coffee strong, and projects on repeat.*
 
 - 🌍 Based in Göttingen, Germany  
 - 💻 Web Developer (MERN + Python + AI projects)  
