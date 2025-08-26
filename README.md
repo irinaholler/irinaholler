@@ -25,6 +25,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical)
+
+
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=irinaholler&show_icons=true&theme=radical)
 
