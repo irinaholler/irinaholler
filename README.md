@@ -111,8 +111,8 @@
 
 ### Say hi
 - 🌐 Portfolio: https://myrina.de/portfolio/  
-- 💌 Email: _add yours here_  
-- 💼 LinkedIn: _add your profile link here_
+- 💌 Email: irina@mygrin.de  
+- 💼 LinkedIn: [_add your profile link here_](https://www.linkedin.com/in/irinaniko/)
 
 <sub>PS: React isn’t a “language,” so it won’t show in the language stats. 
 For a more accurate picture, I’m building a custom chart on my site that merges 
