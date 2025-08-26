@@ -23,6 +23,17 @@
 </p>
 
 ---
+*Coding loud, coffee strong, and projects on repeat.*
+---
+
+### What I’m focusing on
+- 🎙️ **EchoScribe** — Speech-to-Text app (Python + Flask) deployed on **Azure App Service**
+- 🧪 **AI Image Generator** — playful, prompt-to-image experiments (static web app)
+- 🧩 **MERN** projects — clean React UIs, protected routes, and sensible APIs
+- ☁️ Cloud basics — Azure, Render, GitHub Actions
+- 💼 Open to **frontend / full-stack** roles and creative tech internships
+
+---
 
 ### 🚀 Tech Stack
 
