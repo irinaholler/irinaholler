@@ -50,15 +50,25 @@
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical&hide=Jupyter%20Notebook,SCSS&exclude_repo=portfolio,our-playful-lab)
 
+### Toolbox
+**Languages:** JavaScript / TypeScript • Python • HTML • CSS/SCSS  
+**Frontend:** React • Vite • Tailwind • Framer Motion  
+**Backend:** Node.js / Express • Flask  
+**DB:** MongoDB  
+**Cloud & DevOps:** Azure • Render • GitHub Actions  
+**Design & DX:** Figma • Postman • VS Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical)
-
-
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irinaholler&show_icons=true&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-161b22?logo=javascript&logoColor=f7df1e&style=flat" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?logo=typescript&logoColor=2f74c0&style=flat" />
+  <img src="https://img.shields.io/badge/Python-161b22?logo=python&logoColor=ffd343&style=flat" />
+  <img src="https://img.shields.io/badge/React-161b22?logo=react&logoColor=61dafb&style=flat" />
+  <img src="https://img.shields.io/badge/Flask-161b22?logo=flask&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/MongoDB-161b22?logo=mongodb&logoColor=4caf50&style=flat" />
+  <img src="https://img.shields.io/badge/Tailwind-161b22?logo=tailwindcss&logoColor=38bdf8&style=flat" />
+  <img src="https://img.shields.io/badge/Azure-161b22?logo=microsoftazure&logoColor=0089d6&style=flat" />
+</p>
 
 ---
 
