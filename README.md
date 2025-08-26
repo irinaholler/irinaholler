@@ -1,16 +1,5 @@
-# 🤘 Hey, I’m Myrina (irinaholler)
-
-*Coding loud, coffee strong, and projects on repeat.*
-
-- 🌍 Based in Göttingen, Germany  
-- 💻 Web Developer (MERN + Python + AI projects)  
-- 🎨 Creative with design + AI tools  
-- ☕ Coffee + Code enthusiast  
-
----
-
 <!-- Hero -->
-<h1 align="center">Hi, I'm Myrina (irinaholler) — Designer-meets-Developer</h1>
+<h1 align="center">🤘 Hey, I'm Myrina (irinaholler) — Designer-meets-Developer</h1>
 <p align="center">
   <strong>MERN • Python/Flask • AI-curious • Clean UX</strong><br/>
   Building useful things with beautiful details.
@@ -22,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=irinaholler&style=for-the-badge&color=grey" />
 </p>
 
-<p>*Coding loud, coffee strong, and projects on repeat.*</p>
+<p align="center">*Coding loud, coffee strong, and projects on repeat.*</p>
 
 ---
 
@@ -76,6 +65,58 @@
 ⚡ I drink more coffee than I write bugs (barely 😅).  
 
 ---
+
+### Featured Projects
+- **EchoScribe – Speech-to-Text (Azure)**  
+  Python + Flask app for recording audio and transcribing to text.  
+  🔗 Code: https://github.com/irinaholler/EchoScribe  
+  🔴 Live: https://echoscribe-web-3120.azurewebsites.net/
+
+- **AI Image Generator**  
+  A creative web app that transforms prompts into unique images.  
+  🔴 Live: https://colabsite.z6.web.core.windows.net/
+
+- **Chat App (Socket.io + Express + React)**  
+  Real-time chat with rooms and online presence.  
+  🔗 Code: https://github.com/irinaholler/chat-app
+
+- **Portfolio**  
+  Clean, responsive React portfolio with projects & experiments.  
+  🔴 Live: https://myrina.de/portfolio/
+
+> More projects on my [repositories page »](https://github.com/irinaholler?tab=repositories)
+
+---
+
+### Stats (public repos)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irinaholler&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=irinaholler&theme=radical&hide_border=true" />
+</p>
+
+<!-- Note: “Top languages” is bytes per language in public repos (not time spent). 
+     Hidden: Jupyter Notebook & SCSS to better reflect actual usage. -->
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook,SCSS" />
+</p>
+
+---
+
+### Now / Next
+- 📘 Learning: Azure fundamentals & small GitHub Actions automations  
+- 🎧 Side-quest: “Music builds bridges” micro-visuals & UI motion studies  
+- 🤝 Open to collaboration on **React / MERN / Flask** ideas
+
+---
+
+### Say hi
+- 🌐 Portfolio: https://myrina.de/portfolio/  
+- 💌 Email: _add yours here_  
+- 💼 LinkedIn: _add your profile link here_
+
+<sub>PS: React isn’t a “language,” so it won’t show in the language stats. 
+For a more accurate picture, I’m building a custom chart on my site that merges 
+Jupyter Notebook → Python and SCSS → CSS.</sub>
 
 ### 📌 Check out my projects
 
