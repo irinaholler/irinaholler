@@ -10,10 +10,16 @@
 ---
 
 <!-- Hero -->
-<h1 align="center">Hi, I'm Ira — Designer-meets-Developer</h1>
+<h1 align="center">Hi, I'm Myrina (irinaholler) — Designer-meets-Developer</h1>
 <p align="center">
   <strong>MERN • Python/Flask • AI-curious • Clean UX</strong><br/>
   Building useful things with beautiful details.
+</p>
+
+<p align="center">
+  <a href="https://myrina.de/portfolio/"><img src="https://img.shields.io/badge/Portfolio-myrina.de-ff4db8?style=for-the-badge" /></a>
+  <a href="https://github.com/irinaholler?tab=repositories"><img src="https://img.shields.io/badge/Repos-@irinaholler-00d1ff?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=irinaholler&style=for-the-badge&color=grey" />
 </p>
 
 ---
