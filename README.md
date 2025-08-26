@@ -22,8 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=irinaholler&style=for-the-badge&color=grey" />
 </p>
 
----
-*Coding loud, coffee strong, and projects on repeat.*
+<p>*Coding loud, coffee strong, and projects on repeat.*</p>
+
 ---
 
 ### What I’m focusing on
