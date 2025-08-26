@@ -24,6 +24,8 @@
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical&hide=Jupyter%20Notebook,SCSS&exclude_repo=portfolio,our-playful-lab)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical)
 
