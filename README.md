@@ -9,6 +9,15 @@
 
 ---
 
+<!-- Hero -->
+<h1 align="center">Hi, I'm Ira — Designer-meets-Developer</h1>
+<p align="center">
+  <strong>MERN • Python/Flask • AI-curious • Clean UX</strong><br/>
+  Building useful things with beautiful details.
+</p>
+
+---
+
 ### 🚀 Tech Stack
 
 <!-- Core -->
