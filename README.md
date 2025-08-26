@@ -25,7 +25,10 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaholler&layout=compact&theme=radical)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![React](https://img.shields.io/badge/Code-React-61DAFB?logo=react)
+
 
 
 ### 📊 GitHub Stats
