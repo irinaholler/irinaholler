@@ -37,6 +37,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=irinaholler&style=flat-square&color=ffb86c)
+
 
 ---
 
@@ -58,7 +60,6 @@
   <img src="https://img.shields.io/badge/Tailwind-161b22?logo=tailwindcss&logoColor=38bdf8&style=flat" />
   <img src="https://img.shields.io/badge/Azure-161b22?logo=microsoftazure&logoColor=0089d6&style=flat" />
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=irinaholler&style=flat-square&color=ffb86c)
 
 
 ---
