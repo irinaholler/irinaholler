@@ -37,7 +37,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=irinaholler&style=flat-square&color=ffb86c)
 
 
 ---
