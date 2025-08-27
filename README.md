@@ -57,8 +57,9 @@
   <img src="https://img.shields.io/badge/MongoDB-161b22?logo=mongodb&logoColor=4caf50&style=flat" />
   <img src="https://img.shields.io/badge/Tailwind-161b22?logo=tailwindcss&logoColor=38bdf8&style=flat" />
   <img src="https://img.shields.io/badge/Azure-161b22?logo=microsoftazure&logoColor=0089d6&style=flat" />
-  ![Profile views]https://komarev.com/ghpvc/?username=irinaholler&style=flat-square&color=ffb86c)
 </p>
+![Profile views](https://komarev.com/ghpvc/?username=irinaholler&style=flat-square&color=ffb86c)
+
 
 ---
 
